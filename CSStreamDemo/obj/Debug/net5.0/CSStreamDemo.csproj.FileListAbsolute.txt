@@ -1,0 +1,16 @@
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\bin\Debug\net5.0\CSStreamDemo.exe
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\bin\Debug\net5.0\CSStreamDemo.deps.json
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\bin\Debug\net5.0\CSStreamDemo.runtimeconfig.json
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\bin\Debug\net5.0\CSStreamDemo.runtimeconfig.dev.json
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\bin\Debug\net5.0\CSStreamDemo.dll
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\bin\Debug\net5.0\ref\CSStreamDemo.dll
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\bin\Debug\net5.0\CSStreamDemo.pdb
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\obj\Debug\net5.0\CSStreamDemo.csproj.AssemblyReference.cache
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\obj\Debug\net5.0\CSStreamDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\obj\Debug\net5.0\CSStreamDemo.AssemblyInfoInputs.cache
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\obj\Debug\net5.0\CSStreamDemo.AssemblyInfo.cs
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\obj\Debug\net5.0\CSStreamDemo.csproj.CoreCompileInputs.cache
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\obj\Debug\net5.0\CSStreamDemo.dll
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\obj\Debug\net5.0\ref\CSStreamDemo.dll
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\obj\Debug\net5.0\CSStreamDemo.pdb
+C:\Users\maurice.golverdingen\RiderProjects\CSStreamDemo\CSStreamDemo\obj\Debug\net5.0\CSStreamDemo.genruntimeconfig.cache
